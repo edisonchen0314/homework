@@ -1,0 +1,40 @@
+.ui-block-b p img {
+	width: auto;
+	height: auto;
+	max-width: 100%;
+}
+.ui-grid-a p img {
+	width: auto;
+	height: auto;
+	max-width: 100%;
+}
+.ui-block-a p img {
+	width: auto;
+	height: auto;
+	max-width: 100%;
+}
+.ui-block-b p img {
+	width: auto;
+	height: auto;
+	max-width: 100%;
+}
+div .ui-grid-a img {
+	width: auto;
+	height: auto;
+	max-width: 100%;
+}
+.ui-grid-a .ui-block-b p {
+    text-shadow: 0px 0px #FFFFFF;
+    color: #181AA0;
+}
+.ui-grid-a .ui-block-a p {
+    color: #181AA0;
+}
+#page1 .ui-grid-a img {
+
+}
+#page1 .img-fluid {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+}
